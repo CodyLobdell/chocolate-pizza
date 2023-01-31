@@ -1,0 +1,56 @@
+body{
+  margin:30px;
+  max-width: 900px;
+
+}
+
+
+header{
+  display:flex;
+  justify-content: space-between;
+
+}
+
+header section{
+  display:flex;
+
+}
+
+#icon ul{
+  display:flex;
+  flex-direction: row;
+  justify-content: right;
+}
+
+main section{
+  display:flex;
+  justify-content: space-between;
+
+}
+
+#icon print{
+  display:flex;
+  height:fit-content;
+
+}
+
+#chocolatePizza{
+  display:flexbox;
+
+}
+
+#recipe{
+  display:flex;
+
+}
+
+#recipe ul{
+  position: absolute;
+  columns:2;
+  margin:7%;
+}
+
+#recipe ul li{
+  font-size: small;
+  margin:2%;
+}
